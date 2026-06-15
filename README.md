@@ -9,7 +9,7 @@
   <a href="https://omarayman-portfolio.is-great.net/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-0f0f0f?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/omaraymn" target="_blank">
+  <a href="[https://linkedin.com/in/omaraymn](https://www.linkedin.com/in/omar-ayman-%F0%9F%87%B5%F0%9F%87%B8-789725183/)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:Omaraymn411@gmail.com">
