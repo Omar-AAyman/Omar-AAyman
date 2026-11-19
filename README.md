@@ -1,50 +1,61 @@
 <h1 align="center">Hi, I'm Omar Ayman 👋</h1>
 
-<p align="center"><strong>Software Engineer</strong></p>
+<p align="center">
+  <strong>Laravel / PHP Backend Engineer</strong><br />
+  Riyadh, Saudi Arabia · 4+ years of experience · Open to work
+</p>
 
 <p align="center">
-  Focused on delivering reliable, maintainable software that addresses real-world business needs.
+  I build REST APIs, payment integrations, and admin panels with Laravel.
+  Recent public work covers Laravel 10–13, Sanctum, Filament, Livewire, queues, and scheduled jobs.
 </p>
 
-### Connect with me
-
-<p>
-  <a href="https://omarayman-portfolio.is-great.net/"><img src="https://img.shields.io/badge/Portfolio-181717?style=flat-square&amp;logo=googlechrome&amp;logoColor=white" alt="Visit my portfolio" /></a>
-  <a href="https://www.linkedin.com/in/omar-ayman-%F0%9F%87%B5%F0%9F%87%B8-789725183"><img src="https://skillicons.dev/icons?i=linkedin" alt="Connect on LinkedIn" width="28" height="28" /></a>
-  <a href="mailto:Omaraymn411@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Email Omaraymn411@gmail.com" width="28" height="28" /></a>
+<p align="center">
+  <a href="https://omarayman-portfolio.is-great.net/">Portfolio</a> ·
+  <a href="https://www.linkedin.com/in/omar-ayman411">LinkedIn</a> ·
+  <a href="mailto:Omaraymn411@gmail.com">Omaraymn411@gmail.com</a>
 </p>
 
-### Languages & Tools
+---
 
-**Languages**
+### About
 
-<img src="https://skillicons.dev/icons?i=php,js&amp;theme=dark" alt="PHP, JavaScript" />
+Backend-focused PHP engineer. In public repos I have shipped:
 
-**Frameworks & UI**
+- Authenticated REST APIs with Laravel Sanctum, Form Requests, API Resources, and policies
+- Payment checkouts and refunds with PayTabs and Paymob (plus a Stripe experiment)
+- Filament / Livewire admin and student-facing apps, including a tested Mini LMS
+- Background work with queues, scheduled commands, and activity logging
 
-<img src="https://skillicons.dev/icons?i=laravel,react,alpinejs,tailwind&amp;theme=dark" alt="Laravel, React, Alpine.js, Tailwind CSS" />
+Today I'm a Mid-Level Software Developer at Gap Cloud (since August 2025). I'm open to Laravel/PHP backend roles in Riyadh or remote.
 
-**Data & Services**
+---
 
-<img src="https://skillicons.dev/icons?i=mysql,redis,firebase&amp;theme=dark" alt="MySQL, Redis, Firebase" />
+### Featured projects
 
-**Cloud & Development**
+| Project | What it shows |
+| --- | --- |
+| [Mini-LMS-Task](https://github.com/Omar-AAyman/Mini-LMS-Task) | Laravel 12 LMS with Filament v3, Livewire, Alpine.js, policies, queued mail, and a Pest suite. [Student demo](http://mini-lms-task.kesug.com/) · [Admin](http://mini-lms-task.kesug.com/admin) |
+| [electro-pi-task-management-api](https://github.com/Omar-AAyman/electro-pi-task-management-api) | Laravel 13 / PHP 8.3 task API with Sanctum, OpenAPI (Scramble), Postman collection, tests, and overdue-task notifications |
+| [Content-Scheduler](https://github.com/Omar-AAyman/Content-Scheduler) | Laravel 10 content scheduler with Sanctum, `posts:publish` scheduling, analytics, and a [live demo](https://content-scheduler.great-site.net) |
+| [paytabs-support-engineer-task](https://github.com/Omar-AAyman/paytabs-support-engineer-task) | Laravel 12 PayTabs hosted payment page (iFrame): checkout, refunds, stock locking, and payment logs |
+| [isagha-ecommerce-task](https://github.com/Omar-AAyman/isagha-ecommerce-task) | Laravel 12 store with cart, Paymob payments, and Socialite (Google / Facebook). [Live demo](https://isagha-ecommerce.kesug.com/) |
+| [New-Portfolio](https://github.com/Omar-AAyman/New-Portfolio) | Laravel 12 personal site with English/Arabic (RTL) support, a database-backed blog, and an AJAX contact form. [Live site](https://omarayman-portfolio.is-great.net/) |
 
-<img src="https://skillicons.dev/icons?i=git,docker,linux,aws,azure,githubactions,postman&amp;theme=dark" alt="Git, Docker, Linux, AWS, Azure, GitHub Actions, Postman" />
+---
 
-**Laravel Ecosystem**
+### Tech I use in public work
 
-<p>
-  <img src="https://img.shields.io/badge/Filament-FDAE4B?style=flat-square&amp;logo=filament&amp;logoColor=black" alt="Filament" />
-  <img src="https://img.shields.io/badge/Livewire-4E56A6?style=flat-square&amp;logo=livewire&amp;logoColor=white" alt="Livewire" />
-  <img src="https://img.shields.io/badge/Blade-F05340?style=flat-square&amp;logo=laravel&amp;logoColor=white" alt="Blade" />
-  <img src="https://img.shields.io/badge/Sanctum-F05340?style=flat-square&amp;logo=laravel&amp;logoColor=white" alt="Laravel Sanctum" />
-  <img src="https://img.shields.io/badge/Passport-F05340?style=flat-square&amp;logo=laravel&amp;logoColor=white" alt="Laravel Passport" />
-  <img src="https://img.shields.io/badge/Horizon-F05340?style=flat-square&amp;logo=laravel&amp;logoColor=white" alt="Laravel Horizon" />
-  <img src="https://img.shields.io/badge/Forge-18B69B?style=flat-square&amp;logo=laravel&amp;logoColor=white" alt="Laravel Forge" />
-</p>
+**Backend:** PHP 8.1–8.3 · Laravel 10 / 12 / 13 · MySQL · SQLite  
+**Laravel:** Sanctum · Filament v3 · Livewire · Blade · Socialite · queues · task scheduling  
+**APIs & payments:** REST · OpenAPI / Scramble · Postman · PayTabs · Paymob · Stripe  
+**Frontend (in Laravel apps):** Alpine.js · Tailwind (via Filament) · Bootstrap · JavaScript  
+**Also used:** Firebase (PHP SDK) · GitHub Actions · Pest / PHPUnit
 
-**APIs & Delivery**
+---
 
-REST APIs · WebSockets · Azure Pipelines · CI/CD
+### Contact
 
+- Portfolio: [omarayman-portfolio.is-great.net](https://omarayman-portfolio.is-great.net/)
+- LinkedIn: [linkedin.com/in/omar-ayman411](https://www.linkedin.com/in/omar-ayman411)
+- Email: [Omaraymn411@gmail.com](mailto:Omaraymn411@gmail.com)
